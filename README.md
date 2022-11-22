@@ -1,6 +1,5 @@
 # oopsassingment4
-/*This program is a mock representation of a working of Mc Donalds. There are Part Time Emplyoee who add details of customers and Regular emplyoee who add attendace of 
-Part time employee and for the head to calculate salary of all the employee
+/*This program is a mock representation of a working of Mc Donalds. There are Part Time Emplyoee who add details of customers and Regular emplyoee who add attendace of Part time employee and for the head to calculate salary of all the employee
 */
 #include <iostream>
 #include <cstring>
